@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gauge Application</string>
+    <string name="phone_hint">Email/Phone Number</string>
+    <string name="password_hint">Password</string>
+</resources>
