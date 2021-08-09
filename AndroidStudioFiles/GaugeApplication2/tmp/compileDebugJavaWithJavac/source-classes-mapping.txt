@@ -1,0 +1,12 @@
+com/example/gaugeapplication/override.java
+ com.example.gaugeapplication.override
+com/example/gaugeapplication/Settings.java
+ com.example.gaugeapplication.Settings
+com/example/gaugeapplication/HomePage.java
+ com.example.gaugeapplication.HomePage
+com/example/gaugeapplication/MenuPage.java
+ com.example.gaugeapplication.MenuPage
+com/example/gaugeapplication/ContactUs.java
+ com.example.gaugeapplication.ContactUs
+com/example/gaugeapplication/BuildConfig.java
+ com.example.gaugeapplication.BuildConfig
