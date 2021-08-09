@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/green"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/settings_accSettingsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/green"
+        android:text="Account Settings"
+        android:textSize="20dp"
+        android:onClick="goToAccSettings"
+        tools:layout_editor_absoluteX="78dp"
+        tools:layout_editor_absoluteY="128dp" />
+
+
+
+    <Button
+        android:id="@+id/settings_connectbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/green"
+        android:text="Connect To Microprocessor"
+        android:textSize="20dp"
+        android:onClick="goToConnectMicroprocessor"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="289dp" />
+
+    <Button
+        android:id="@+id/settings_helpbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/green"
+        android:text="Help"
+        android:textSize="20dp"
+        android:onClick="goToHelp"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="370dp" />
+
+    <Button
+        android:id="@+id/settings_websitebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/green"
+        android:text="Go To Website"
+        android:textSize="20dp"
+        android:onClick="goToWebsite"
+        tools:layout_editor_absoluteX="104dp"
+        tools:layout_editor_absoluteY="535dp" />
+
+    <Button
+        android:id="@+id/settings_feedbackButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/green"
+        android:text="Feedback"
+        android:textSize="20dp"
+        android:onClick="goToFeedback"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="454dp" />
+
+    <TextView
+        android:id="@+id/settingsLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="14dp" />
+
+    <ImageButton
+        android:id="@+id/settings_menuButton"
+        android:layout_width="51dp"
+        android:layout_height="53dp"
+        android:onClick="goToMenuFromSettings"
+        android:backgroundTint="@color/green"
+        app:srcCompat="@drawable/ic_menu_icon_light"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="1dp" />
+
+    <ToggleButton
+        android:id="@+id/settings_notifToggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/green"
+        android:text="Notifications"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="245dp"
+        tools:layout_editor_absoluteY="211dp" />
+
+    <TextView
+        android:id="@+id/settings_notifLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/green"
+        android:text="Notifications"
+        android:textSize="25dp"
+        tools:layout_editor_absoluteX="78dp"
+        tools:layout_editor_absoluteY="218dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
