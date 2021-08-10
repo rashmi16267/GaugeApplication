@@ -26,10 +26,12 @@ public class SettingsPage extends Activity {
         //code
     }
     public void goToHelp (View view){
-        //code
+            Intent intent = new Intent (this, ContactUsPage.class);
+            startActivity(intent);
     }
     public void goToFeedback (View view){
-        //code
+        Intent intent = new Intent (this, ContactUsPage.class);
+        startActivity(intent);
     }
     public void goToWebsiteFromSettings (View view){
         //code

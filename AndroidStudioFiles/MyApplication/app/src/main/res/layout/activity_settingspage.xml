@@ -42,7 +42,7 @@
         android:layout_width="375dp"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/green"
-        android:onClick="goToSettingsFromMenu"
+        android:onClick="goToHelp"
         android:text="Help"
         android:textSize="25dp"
         tools:ignore="MissingConstraints"

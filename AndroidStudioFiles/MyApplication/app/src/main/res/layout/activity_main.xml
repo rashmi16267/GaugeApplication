@@ -14,7 +14,8 @@
         android:textColor="#45BF55"
         android:textSize="60dp"
         tools:layout_editor_absoluteX="131dp"
-        tools:layout_editor_absoluteY="111dp" />
+        tools:layout_editor_absoluteY="111dp"
+        tools:ignore="MissingConstraints" />
 
     <EditText
         android:id="@+id/editTextPassword"
@@ -24,7 +25,8 @@
         android:hint="Password"
         android:inputType="textPassword"
         tools:layout_editor_absoluteX="87dp"
-        tools:layout_editor_absoluteY="354dp" />
+        tools:layout_editor_absoluteY="354dp"
+        tools:ignore="MissingConstraints" />
 
     <EditText
         android:id="@+id/editTextEmailAddress"
@@ -34,7 +36,8 @@
         android:hint="Email"
         android:inputType="textEmailAddress"
         tools:layout_editor_absoluteX="87dp"
-        tools:layout_editor_absoluteY="271dp" />
+        tools:layout_editor_absoluteY="271dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/loginbutton"
@@ -46,15 +49,21 @@
         android:textSize="20dp"
         android:onClick="goToHomeFromLogin"
         tools:layout_editor_absoluteX="155dp"
-        tools:layout_editor_absoluteY="438dp" />
+        tools:layout_editor_absoluteY="438dp"
+        tools:ignore="MissingConstraints" />
 
-    <TextView
-        android:id="@+id/signUpButton"
+    <Button
+        android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Don't have an Account? Sign Up"
         android:textSize="15dp"
-        tools:layout_editor_absoluteX="101dp"
-        tools:layout_editor_absoluteY="536dp" />
+        android:textColor="@color/black"
+        android:backgroundTint="@color/white"
+        android:onClick="goToSignUpFromLogin"
+        android:text="Don't have an Account? Sign Up"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="534dp"
+        tools:ignore="MissingConstraints" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
