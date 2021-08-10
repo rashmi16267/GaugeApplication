@@ -1,5 +1,7 @@
 # GaugeApplication
 
+(10/08/2021 7:20PM)
+
 Login Page (MainActivity.kt)
 - email and password credentials have to be authenticated via method
 - Login presently only redirects to home, needs to check credentials before redirecting
