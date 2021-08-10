@@ -9,4 +9,4 @@ Android Studio Files
 - code to direct relevant buttons to websites yet to be done (09/08/2021 10:19pm) @rashmi16267
 - sign up page and notification page created
 - help and feedback redirected to contact us page
-- yet to be tested/run (10/08/2021 11:25pm) @rashmi16267
+- notifications and toast message for notifications switch created, yet to be tested/run (10/08/2021 11:25pm) @rashmi16267
