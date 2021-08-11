@@ -17,12 +17,14 @@ class MainActivity() : AppCompatActivity(), Parcelable {
         setContentView(R.layout.activity_main)
     }
     fun goToHomeFromLogin(view: View?) {
-        val intent = Intent(this, HomePage::class)
+        val intent = Intent(this@MainActivity, HomePage::class.java)
         startActivity(intent)
+
+        //startActivity(intent)
     }
 
     fun goToSignUpFromLogin(view: View?) {
-        val intent = Intent(this, SignUpPage::class)
+        val intent = Intent(this, SignUpPage::class.java)
         startActivity(intent)
     }
 
