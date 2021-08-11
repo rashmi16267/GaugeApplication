@@ -10,3 +10,4 @@ Android Studio Files
 - sign up page and notification page created
 - help and feedback redirected to contact us page
 - notifications and toast message for notifications switch created, yet to be tested/run (10/08/2021 11:25pm) @rashmi16267
+- build and sync succeded, run does not go past 'Starting AVD' when launching emulator (12/08/2021 1:15am) @rashmi16267
