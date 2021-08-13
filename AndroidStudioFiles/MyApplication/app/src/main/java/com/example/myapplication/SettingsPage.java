@@ -17,13 +17,16 @@ public class SettingsPage extends Activity {
         startActivity(intent);
     }
     public void goToAccountSettings (View view){
-        //code
+        Intent intent = new Intent (this, ContactUsPage.class);
+        startActivity(intent);
     }
-    public void goToNotifications (View view){
-        //code
+    public void goToNotifications (View v){
+        Intent intent = new Intent (this, NotificationsPage.class);
+        startActivity(intent);
     }
     public void goToConnectToMicroprocessor (View view){
-        //code
+        Intent intent = new Intent (this, ContactUsPage.class);
+        startActivity(intent);
     }
     public void goToHelp (View view){
             Intent intent = new Intent (this, ContactUsPage.class);
@@ -34,7 +37,8 @@ public class SettingsPage extends Activity {
         startActivity(intent);
     }
     public void goToWebsiteFromSettings (View view){
-        //code
+        Intent intent = new Intent (this, ContactUsPage.class);
+        startActivity(intent);
     }
 
 }
