@@ -17,7 +17,8 @@ public class ContactUsPage extends Activity {
         startActivity(intent);
     }
     public void SubmitContactUsInfo (View view){
-        //code
+        Intent intent = new Intent (this, HomePage.class);
+        startActivity(intent);
     }
 
 }

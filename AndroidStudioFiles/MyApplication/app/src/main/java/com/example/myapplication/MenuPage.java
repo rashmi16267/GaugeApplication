@@ -33,7 +33,8 @@ public class MenuPage extends Activity {
         startActivity(intent);
     }
     public void goToWebsiteFromMenu (View view){
-        //code for website link
+        Intent intent = new Intent (this, ContactUsPage.class);
+        startActivity(intent);
     }
 }
 
