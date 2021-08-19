@@ -1,5 +1,7 @@
 Android Studio Files
 
+Android Studio Build: https://youtu.be/0XgJMsv2QXY
+
 Updates for collaborators (ignore):
 - finished the layouts for activities (09/08/2021 4:41pm) @rashmi16267
 - connection between activities yet to be made (09/08/2021 4:41pm) @rashmi16267
