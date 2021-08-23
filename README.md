@@ -9,11 +9,11 @@ Initial UI/UX Design: https://youtu.be/gM9jW5LqfEE
 Initial UI/UX Design (Adobe XD):
 
 
-<img width="350" alt="Login Page" src="https://user-images.githubusercontent.com/67630400/130458187-96fcfe39-e1cd-4887-b010-189e739ac170.png">
-<img width="350" alt="Home Page" src="https://user-images.githubusercontent.com/67630400/130458242-38ec6656-ec13-4553-949e-f8b9e205697e.png">
-<img width="350" alt="Menu Page" src="https://user-images.githubusercontent.com/67630400/130458261-4f070161-9c3e-4dc2-afa3-3c75ad0cf9cc.png">
-<img width="350" alt="Settings Page" src="https://user-images.githubusercontent.com/67630400/130458333-c138dc0b-66fa-45c0-81ef-54e0ec8b7130.png">
-<img width="350" alt="Contact Us Page" src="https://user-images.githubusercontent.com/67630400/130458353-42272449-53d7-48ef-b05d-1c92bd26c5cf.png">
+<img width="450" alt="Login Page" src="https://user-images.githubusercontent.com/67630400/130458187-96fcfe39-e1cd-4887-b010-189e739ac170.png">
+<img width="450" alt="Home Page" src="https://user-images.githubusercontent.com/67630400/130458242-38ec6656-ec13-4553-949e-f8b9e205697e.png">
+<img width="450" alt="Menu Page" src="https://user-images.githubusercontent.com/67630400/130458261-4f070161-9c3e-4dc2-afa3-3c75ad0cf9cc.png">
+<img width="450" alt="Settings Page" src="https://user-images.githubusercontent.com/67630400/130458333-c138dc0b-66fa-45c0-81ef-54e0ec8b7130.png">
+<img width="450" alt="Contact Us Page" src="https://user-images.githubusercontent.com/67630400/130458353-42272449-53d7-48ef-b05d-1c92bd26c5cf.png">
 
 
 Final Android Studio Build:
@@ -26,6 +26,8 @@ Final Android Studio Build:
 ![Screenshot_1629371147](https://user-images.githubusercontent.com/67630400/130457927-2a312319-d45a-4116-9528-b673ede59e73.png)
 ![Screenshot_1629371154](https://user-images.githubusercontent.com/67630400/130457944-ba358835-e7e8-4bcb-a45c-ddc76d5e9e76.png)
 ![Screenshot_1629371162](https://user-images.githubusercontent.com/67630400/130457953-49d491d4-94cd-4f0c-89e0-0a7543932b1a.png)
+
+Note: No IoT connections have been made (manual pump toggle switch, gauge sensor connections etc., only application design prototype)
 
 
 
