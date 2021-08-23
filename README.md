@@ -13,10 +13,12 @@ Initial UI/UX Design (Adobe XD):
 <img width="350" alt="Home Page" src="https://user-images.githubusercontent.com/67630400/130458242-38ec6656-ec13-4553-949e-f8b9e205697e.png">
 <img width="350" alt="Menu Page" src="https://user-images.githubusercontent.com/67630400/130458261-4f070161-9c3e-4dc2-afa3-3c75ad0cf9cc.png">
 <img width="350" alt="Settings Page" src="https://user-images.githubusercontent.com/67630400/130458333-c138dc0b-66fa-45c0-81ef-54e0ec8b7130.png">
-<img width="350" alt="Screenshot 2021-08-09 at 1 04 41 PM" src="https://user-images.githubusercontent.com/67630400/130458353-42272449-53d7-48ef-b05d-1c92bd26c5cf.png">
-<img width="350" alt="Screenshot 2021-08-09 at 12 19 11 PM" src="https://user-images.githubusercontent.com/67630400/130458558-9552b55f-7815-4862-867c-4404dfbc0fd5.png">
+<img width="350" alt="Contact Us Page" src="https://user-images.githubusercontent.com/67630400/130458353-42272449-53d7-48ef-b05d-1c92bd26c5cf.png">
+
 
 Final Android Studio Build:
+
+
 ![Screenshot_1629371128](https://user-images.githubusercontent.com/67630400/130457843-ab7f0a10-199f-40e7-8501-8cf8add02d83.png)
 ![Screenshot_1629371134](https://user-images.githubusercontent.com/67630400/130457849-8c28e1a8-9427-4f12-86cf-04130d51c3a6.png)
 ![Screenshot_1629371140](https://user-images.githubusercontent.com/67630400/130457862-91562b99-5537-471a-bcef-f03c1224cd46.png)
