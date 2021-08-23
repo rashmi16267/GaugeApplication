@@ -9,10 +9,10 @@ Initial UI/UX Design: https://youtu.be/gM9jW5LqfEE
 Initial UI/UX Design (Adobe XD):
 
 
-<img width="350" alt="Screenshot 2021-08-09 at 12 18 54 PM" src="https://user-images.githubusercontent.com/67630400/130458187-96fcfe39-e1cd-4887-b010-189e739ac170.png">
-<img width="350" alt="Screenshot 2021-08-09 at 1 04 12 PM" src="https://user-images.githubusercontent.com/67630400/130458242-38ec6656-ec13-4553-949e-f8b9e205697e.png">
-<img width="350" alt="Screenshot 2021-08-09 at 12 18 40 PM" src="https://user-images.githubusercontent.com/67630400/130458261-4f070161-9c3e-4dc2-afa3-3c75ad0cf9cc.png">
-<img width="350" alt="Screenshot 2021-08-09 at 1 04 28 PM" src="https://user-images.githubusercontent.com/67630400/130458333-c138dc0b-66fa-45c0-81ef-54e0ec8b7130.png">
+<img width="350" alt="Login Page" src="https://user-images.githubusercontent.com/67630400/130458187-96fcfe39-e1cd-4887-b010-189e739ac170.png">
+<img width="350" alt="Home Page" src="https://user-images.githubusercontent.com/67630400/130458242-38ec6656-ec13-4553-949e-f8b9e205697e.png">
+<img width="350" alt="Menu Page" src="https://user-images.githubusercontent.com/67630400/130458261-4f070161-9c3e-4dc2-afa3-3c75ad0cf9cc.png">
+<img width="350" alt="Settings Page" src="https://user-images.githubusercontent.com/67630400/130458333-c138dc0b-66fa-45c0-81ef-54e0ec8b7130.png">
 <img width="350" alt="Screenshot 2021-08-09 at 1 04 41 PM" src="https://user-images.githubusercontent.com/67630400/130458353-42272449-53d7-48ef-b05d-1c92bd26c5cf.png">
 <img width="350" alt="Screenshot 2021-08-09 at 12 19 11 PM" src="https://user-images.githubusercontent.com/67630400/130458558-9552b55f-7815-4862-867c-4404dfbc0fd5.png">
 
