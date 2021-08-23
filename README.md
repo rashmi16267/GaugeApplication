@@ -7,6 +7,8 @@ Android Studio Build: https://youtu.be/0XgJMsv2QXY
 Initial UI/UX Design: https://youtu.be/gM9jW5LqfEE
 
 Initial UI/UX Design (Adobe XD):
+
+
 <img width="350" alt="Screenshot 2021-08-09 at 12 18 54 PM" src="https://user-images.githubusercontent.com/67630400/130458187-96fcfe39-e1cd-4887-b010-189e739ac170.png">
 <img width="350" alt="Screenshot 2021-08-09 at 1 04 12 PM" src="https://user-images.githubusercontent.com/67630400/130458242-38ec6656-ec13-4553-949e-f8b9e205697e.png">
 <img width="350" alt="Screenshot 2021-08-09 at 12 18 40 PM" src="https://user-images.githubusercontent.com/67630400/130458261-4f070161-9c3e-4dc2-afa3-3c75ad0cf9cc.png">
